@@ -1,0 +1,13 @@
+{
+  "name": "basic_server",
+  "version": "0.0.1",
+  "description": "tutorial used in first class",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node routes.js"
+  },
+  "engines":{"node" : "0.12.x"},
+  "author": "clbo",
+  "license": "MIT"
+}
