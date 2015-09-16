@@ -1,4 +1,4 @@
-# 04_nodejs_basic_server
+# 04 Nodejs Basic Server
 A nodejs server with read static file and basic http routing, using http and fs modules
 
 ## Installation
